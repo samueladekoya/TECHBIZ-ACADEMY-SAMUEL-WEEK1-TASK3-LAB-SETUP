@@ -85,7 +85,7 @@ Executed `ping -c 4 192.168.56.20` from the Kali/Ubuntu terminal and `ping 192.1
 ## 6. Phase 3: TryHackMe — Windows Fundamentals 1
 To build core endpoint administration knowledge ahead of Windows log analysis, I completed the mandatory free-tier TryHackMe room **Windows Fundamentals 1** (`tryhackme.com/room/windowsfundamentals1xbx`), covering the Windows file system (NTFS), User Account Control (UAC), Control Panel utilities, Task Manager, and Windows Services.
 
-![TryHackMe Windows Fundamentals 1 Room Completion Proof](Screenshots%20(617).png)
+![TryHackMe Windows Fundamentals 1 Room Completion Proof](Screenshot%20(617).png)
 
 ---
 
@@ -103,4 +103,4 @@ During Week 1 · Task 3 of my SOC Analyst Internship at TechBiz Academy, I succe
 
 In Phase 1 and Phase 2, I provisioned both a Linux monitoring/analyst node and a Windows 10 evaluation endpoint, isolated them on a shared `intnet` virtual switch with static IPv4 addressing, and validated bidirectional connectivity with zero packet loss. In Phase 3, I reinforced core Windows OS administrative concepts through TryHackMe's *Windows Fundamentals 1* room.
 
-This completed lab infrastructure establishes a reliable, self-contained testbed ready for Week 2 SIEM deployment, log ingestion, and threat detection exercises.
+This completed lab infrastructure establishes a reliable, self-contained testbed ready for SIEM deployment, log ingestion, and threat detection exercises.
